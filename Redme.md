@@ -9,29 +9,29 @@
 ---
 
 ### **👨‍💻 About Me**
-- 🔭 Currently working on ReactJS & Full-Stack Web Development
+- 🔭 Currently working on Flutter app Development
 - 🚀 Passionate about building cool projects & contributing to open-source
-- 💬 Ask me anything about Web & Mobile Development
-- 👀 Actively seeking opportunities in Web Development
-- 🎓 B.Sc. IT Graduate | Pursuing M.Sc. IT
+- 💬 Ask me anything about Mobile Development
+- 👀 Actively seeking opportunities in Android/ios App Development
+- 🎓 B.Sc. IT Graduate
 
 ---
 
 ### 💼 **Job Experience**
-🚀 **Freshman Developer** | Self-Learning & Open Source  
+🚀 **Flutter Developer** | Working in Parasight Solutions  
 📅 **2024 - Present**  
-🔹 Working on personal projects in **React, Node.js, Flutter, Firebase, and MongoDB**  
+🔹 Working on personal projects in **Flutter, Firebase, and RESTFUL API**  
 🔹 Contributing to **open-source projects** on GitHub  
-🔹 Developing **web and mobile applications** as part of my learning journey  
+🔹 Developing **mobile applications** as part of my learning journey  
 🔹 Exploring **AI-powered coding tools** for developers  
-🔹 Building a **VSCode extension for code negotiation**  
+🔹 Building an **Android extension for code negotiation**  
 
 ---
 
 ### 🏆 **GitHub Stats**  
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanya001theme=dark&hide_border=true" />
-  <img style="width: 69%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=yashKappa&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&hide_title=true" />
+  <img style="width: 69%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Dhanya001&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&hide_title=true" />
 </p>
 
 ---
@@ -45,14 +45,14 @@
 
 ### 🌌 **3D Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashKappa&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanya001&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ### 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,firebase,git,github,vscode,androidstudio,flutter,java,cpp,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,RESTFUL API,firebase,git,github,androidstudio,flutter,dart&theme=dark" />
 </p>
 
 ---
