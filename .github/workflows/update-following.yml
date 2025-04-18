@@ -14,7 +14,7 @@ jobs:
 
       - name: Fetch Followers List
         run: |
-          FOLLOWERS=$(curl -s https://api.github.com/users/yashKappa/followers?per_page=100)
+          FOLLOWERS=$(curl -s https://api.github.com/users/Dhanya001/followers?per_page=100)
 
           echo "<!-- FOLLOWERS_SECTION:start -->" > followers.md
           echo "" >> followers.md
