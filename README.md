@@ -1,3 +1,7 @@
+<p align="center">
+  Hi 👋, My Self Dahanajay Saundalkar
+</p>
+---
 <!-- Banner Image -->
 <p align="center">
   <img src="https://itproger.com/img/news/1631479747.jpg" width="100%" border="20%">
@@ -5,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=Hello+world!;Welcome+to+my+profile!" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=Hello+world!;Welcome+to+my+profile!;I Am Flutter Developer;Developing Multiple App with My Passion" 
     alt="Typing SVG" />
 </p>
 
