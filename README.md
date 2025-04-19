@@ -1,7 +1,9 @@
 <p align="center">
   Hi 👋, My Self Dahanajay Saundalkar
 </p>
+
 ---
+
 <!-- Banner Image -->
 <p align="center">
   <img src="https://itproger.com/img/news/1631479747.jpg" width="100%" border="20%">
