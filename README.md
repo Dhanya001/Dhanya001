@@ -3,7 +3,7 @@
   <img src="https://itproger.com/img/news/1631479747.jpg" width="100%" border="20%">
 </p>
 
-<div style="background-color:#c0c0c0; text-align:center;">
+<div style="background-color:#c0c0c0; text-align:center; justify-content:center">
   <img src="https://readme-typing-svg.demolab.com?lines=Hello+world!;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
