@@ -1,5 +1,7 @@
 <p align="center">
-  <b><span style="font-weight:1000; font-size:30px;">Hi 👋, My Self Dahanajay Saundalkar</span></b>
+  <b><span style="font-weight:900; font-size:40px;">
+    <strong>Hi 👋, My Self Dahanajay Saundalkar</strong>
+  </span></b>
 </p>
 
 ---
