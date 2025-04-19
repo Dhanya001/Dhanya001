@@ -9,66 +9,49 @@
 ---
 
 ### **👨‍💻 About Me**
-- 🔭 Currently working on ReactJS & Full-Stack Web Development
+- 🔭 Currently working on Flutter App Development
 - 🚀 Passionate about building cool projects & contributing to open-source
-- 💬 Ask me anything about Web & Mobile Development
-- 👀 Actively seeking opportunities in Web Development
-- 🎓 B.Sc. IT Graduate | Pursuing M.Sc. IT
+- 💬 Ask me anything about Android and Mobile App Development
+- 👀 Actively seeking opportunities in App Development
+- 🎓 B.Sc. IT Graduate 
 
 ---
 
 ## 💼 Job Experience  
-🚀 **Freshman Developer** | 🎯 Self-Learner & Open Source Contributor  
-✨ **Actively seeking job opportunities**  
-💻 Building personal projects using **React, Node.js, Flutter, Firebase, and MongoDB**  
+🚀 **Freshman App Developer** | 🎯 Self-Learner & Open Source Contributor  
+✨ **Actively seeking job opportunities In App Development**  
+💻 Building personal projects using **Flutter, Firebase**  
 🌱 Contributing to **open-source projects** on GitHub  
-📱 Developing **web and mobile applications** as part of my learning journey  
+📱 Developing **IOS and mobile applications** as part of my learning journey  
 
 ---
 
 ### 🏆 **GitHub Stats**  
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashKappa&theme=dark&hide_border=true" />
-  <img style="width: 69%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=yashKappa&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&hide_title=true" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanya001&theme=dark&hide_border=true" />
+  <img style="width: 69%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Dhanya001&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&hide_title=true" />
 </p>
 
 ---
 
 ### 📊 **Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashKappa&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhanya001&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ### 🌌 **3D Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashKappa&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanya001&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 ### 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,firebase,git,github,vscode,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,flutter&theme=dark" />
 </p>
-
----
-
-## 🚀 Pinned Repositories 📌  
-
-🔹 Here are some of my featured projects:  
-
-| 🌟 Project Name | 📝 Description | 🛠 Tech Stack |
-|---------------|----------------|-------------|
-| 🎨 [**Toriko-Food-ingredients-**](https://yashkappa.github.io/Toriko-Food-ingredients-/) | This Project was create based on Recipe where foodies can share their own recipe to other people and add to favorites can give likes to best recipe. 🍽️ A collection of unique and exotic food ingredients inspired by the world of Toriko.| `ReactJS` `Firebase` |
-| 📝 [**list**](https://github.com/yashKappa/list) | A to-do list app where users can add and delete notes. | `CSS` |
-| 🎬 [**anime-app**](https://github.com/yashKappa/anime-app) | A website showcasing different types of anime posters. | `HTML` |
-| 🌦 [**weather-report**](https://github.com/yashKappa/weather-report) | A weather report app displaying temperature for searched locations. | `CSS` |
-| 🔍 [**Commodity-trading-system-**](https://github.com/yashKappa/Plagiarism-) | 🛒 A dynamic platform for buying and selling personal products. This system enables users to list, manage, and trade commodities efficiently, ensuring a smooth and secure transaction process.| `ReactJS` `Firebase` |
-| 🧳 [**IT-Travel-Checklist**](https://github.com/yashKappa/IT-Travel-Checklist) | A travel checklist to help pack for a 2-3 day trip. | `HTML` |
-
-📌 **Check out my full project list** 👉 [GitHub Profile](https://github.com/yashKappa) 🚀  
 
 ---
 
