@@ -11,7 +11,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=Hello+world!;Welcome+to+my+profile!;I Am Flutter Developer;Developing Multiple App with My Passion" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=Hello+world!;Welcome+to+my+profile!;I Am Flutter Developer;Delevop Multiple App with My Passion" 
     alt="Typing SVG" />
 </p>
 
