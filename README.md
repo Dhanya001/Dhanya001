@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://thoughtfocus.com/wp-content/uploads/2025/03/flutter_banner-scaled-1.jpg" width="100%" border="20%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQstkkQ87VpBL1ddil3N6pOCTLnfnSsc9oudST-OUM4n1UM4Pb3st5ghXQL0r68peKvR8w&usqp=CAU" width="100%" border="20%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=50&lines=Hi+there!+I'm+Yash+Kappa!;Full+Stack+Developer+🚀;React+%7C+Node.js+%7C+MongoDB+%7C+Firebase;Coding+enthusiast+💡;Let's+connect!+😃&background=c0c0c0" alt="Typing SVG" />
