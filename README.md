@@ -1,5 +1,5 @@
 <p align="center">
-    <strong>Hi 👋, My Self Dahanajay Saundalkar</strong>
+    <strong>Hi 👋, My Self Dhananjay Saundalkar</strong>
 </p>
 
 ---
