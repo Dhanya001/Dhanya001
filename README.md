@@ -1,81 +1,75 @@
-<!-- Header -->
+<!-- Background -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhananjay+Saundalkar;Flutter+Developer;Mobile+App+Enthusiast;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0C2C,100:0C0C2C&height=80&section=header&text=Hello,%20I'm%20Mohammad%20Al%20Azmeh&fontSize=30&fontColor=white" />
 </p>
 
+<!-- Profile Picture and Title -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm Dhananjay Saundalkar 👋</h1>
-<h3 align="center">Mobile Application Developer | Flutter Enthusiast</h3>
+<h2 align="center" style="color:white;">Mobile Application Developer</h2>
+<p align="center">A skilled Flutter developer with 5 years of experience. You can count on me when it comes to performance, a touch of creativity, and good results.</p>
 
 <p align="center">
-  Passionate Flutter developer, building beautiful and performant mobile applications. <br/>
-  Dedicated to continuous learning, open-source, and crafting excellent user experiences.
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Resume-%230077B5?style=for-the-badge&logo=readcv&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔥 About Me
+## 🧑‍💼 About Me
 
-- 🧠 Flutter Developer with a passion for mobile technology  
-- 💼 Currently building cross-platform apps using **Flutter + Firebase**  
-- 🌱 Always learning and improving my **UI/UX design** & performance optimization skills  
-- 📫 Available for freelance & full-time opportunities  
-- 🧰 Tools I use: `Flutter`, `Dart`, `Firebase`, `Git`, `VSCode`, `Figma`
+🔹 I’m a Flutter developer who’s passionate about creating real-time mobile applications.  
+🔹 I specialize in building scalable cross-platform apps with pixel-perfect UIs.  
+🔹 My experience includes real-time messaging, payments, custom animations, and complex app architectures.  
+🔹 Worked for several clients and companies globally.  
+🔹 I also mentor junior developers and contribute to open-source.
 
----
-
-### 🚀 What I Can Do
-
-<table>
-<tr>
-  <td align="center" width="33%">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="50"/><br>
-    <strong>High Performance Engineering</strong>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://cdn-icons-png.flaticon.com/512/6013/6013179.png" width="50"/><br>
-    <strong>UI Design Excellence</strong>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://cdn-icons-png.flaticon.com/512/2920/2920347.png" width="50"/><br>
-    <strong>Business Strategy Support</strong>
-  </td>
-</tr>
-</table>
+📍 Currently working at a top-tier mobile dev company.  
+🛠 Tech Stack: `Flutter`, `Dart`, `Firebase`, `REST API`, `Figma`, `Git`.
 
 ---
 
-### 📊 GitHub Stats
+## ⚡ "What I Can Do"
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanya001&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanya001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.icons8.com/fluency/96/engineering.png" width="80"/><br>
+  <b>High Performance Engineering</b>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/strategy-board.png" width="80"/><br>
+  <b>Business Strategy (Tech)</b>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/design.png" width="80"/><br>
+  <b>UI Design Excellence</b>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/real-time-collaboration.png" width="80"/><br>
+  <b>Real-Time Solutions</b>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+## 📊 Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Get in Touch
+## 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">📧 your.email@example.com</a><br/>
-  <a href="https://linkedin.com/in/yourprofile">🔗 linkedin.com/in/yourprofile</a><br/>
+  <a href="mailto:youremail@example.com">Email</a> • 
+  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> • 
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
 </p>
