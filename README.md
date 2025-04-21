@@ -1,148 +1,81 @@
+<!-- Header -->
 <p align="center">
-    <strong>Hi 👋, My Self Dhananjay Saundalkar</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhananjay+Saundalkar;Flutter+Developer;Mobile+App+Enthusiast;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi, I'm Dhananjay Saundalkar 👋</h1>
+<h3 align="center">Mobile Application Developer | Flutter Enthusiast</h3>
+
+<p align="center">
+  Passionate Flutter developer, building beautiful and performant mobile applications. <br/>
+  Dedicated to continuous learning, open-source, and crafting excellent user experiences.
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Resume-%230077B5?style=for-the-badge&logo=readcv&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://itproger.com/img/news/1631479747.jpg" width="100%" style="border: 5px solid #000;" />
-</p>
+### 🔥 About Me
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&lines=Hello+Friends!;Welcome+to+my+profile!;I+Am+Flutter+Developer" 
-    alt="Typing SVG" />
-</p>
-
-
-
+- 🧠 Flutter Developer with a passion for mobile technology  
+- 💼 Currently building cross-platform apps using **Flutter + Firebase**  
+- 🌱 Always learning and improving my **UI/UX design** & performance optimization skills  
+- 📫 Available for freelance & full-time opportunities  
+- 🧰 Tools I use: `Flutter`, `Dart`, `Firebase`, `Git`, `VSCode`, `Figma`
 
 ---
 
-### **👨‍💻 About Me**
-- 🔭 Currently working on Flutter App Development
-- 🚀 Passionate about building cool projects & contributing to open-source
-- 💬 Ask me anything about Android and Mobile App Development
-- 👀 Actively seeking opportunities in App Development
-- 🎓 B.Sc. IT Graduate 
+### 🚀 What I Can Do
 
----
-
-## 💼 Job Experience  
-🚀 **Freshman App Developer** | 🎯 Self-Learner & Open Source Contributor  
-✨ **Actively seeking job opportunities In App Development**  
-💻 Building personal projects using **Flutter, Firebase**  
-🌱 Contributing to **open-source projects** on GitHub  
-📱 Developing **IOS and mobile applications** as part of my learning journey  
-
----
-
-### 🏆 **GitHub Stats**  
-<p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanya001&theme=dark&hide_border=true" />
-  <img style="width: 69%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Dhanya001&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&hide_title=true" />
-</p>
-
----
-
-### 📊 **Most Used Languages**
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhanya001&layout=compact&langs_count=8&theme=dark&hide_border=true" />
-</p>
-
----
-
-### 🌌 **3D Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanya001&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-### 🚀 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,flutter&theme=dark" />
-</p>
-
----
-
-## 🚀 My Recently Updated Projects  
-<!-- LATEST-REPOS-START -->
-<td width="50%" valign="top" style="word-wrap: break-word; max-width: 50%;">
-<table width="100%" border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); table-layout: fixed; overflow-wrap: break-word;">
-<tr><td style="background: #f8f8f8; font-size: 16px;"><strong><a href="https://github.com/Dhanya001/Dhanya001">Dhanya001</a></strong></td></tr>
-<tr><td style="font-size: 14px; overflow-wrap: break-word;">No description available</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; background: #eee; padding: 3px 6px; border-radius: 4px;">JavaScript</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; padding: 3px 6px;">No Website</td></tr>
-<tr><td style="font-size: 12px; padding: 3px 6px;">No Topics</td></tr>
-</table>
-</td>
-<td width="50%" valign="top" style="word-wrap: break-word; max-width: 50%;">
-<table width="100%" border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); table-layout: fixed; overflow-wrap: break-word;">
-<tr><td style="background: #f8f8f8; font-size: 16px;"><strong><a href="https://github.com/Dhanya001/Practice">Practice</a></strong></td></tr>
-<tr><td style="font-size: 14px; overflow-wrap: break-word;">No description available</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; background: #eee; padding: 3px 6px; border-radius: 4px;">Dart</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; padding: 3px 6px;">No Website</td></tr>
-<tr><td style="font-size: 12px; padding: 3px 6px;">No Topics</td></tr>
-</table>
-</td>
-<td width="50%" valign="top" style="word-wrap: break-word; max-width: 50%;">
-<table width="100%" border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); table-layout: fixed; overflow-wrap: break-word;">
-<tr><td style="background: #f8f8f8; font-size: 16px;"><strong><a href="https://github.com/Dhanya001/StarFix-Shop">StarFix-Shop</a></strong></td></tr>
-<tr><td style="font-size: 14px; overflow-wrap: break-word;">No description available</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; background: #eee; padding: 3px 6px; border-radius: 4px;">Dart</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; padding: 3px 6px;">No Website</td></tr>
-<tr><td style="font-size: 12px; padding: 3px 6px;">No Topics</td></tr>
-</table>
-</td>
-<td width="50%" valign="top" style="word-wrap: break-word; max-width: 50%;">
-<table width="100%" border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); table-layout: fixed; overflow-wrap: break-word;">
-<tr><td style="background: #f8f8f8; font-size: 16px;"><strong><a href="https://github.com/Dhanya001/StudentInfoHub">StudentInfoHub</a></strong></td></tr>
-<tr><td style="font-size: 14px; overflow-wrap: break-word;">No description available</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; background: #eee; padding: 3px 6px; border-radius: 4px;">Dart</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; padding: 3px 6px;">No Website</td></tr>
-<tr><td style="font-size: 12px; padding: 3px 6px;">No Topics</td></tr>
-</table>
-</td>
-<td width="50%" valign="top" style="word-wrap: break-word; max-width: 50%;">
-<table width="100%" border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); table-layout: fixed; overflow-wrap: break-word;">
-<tr><td style="background: #f8f8f8; font-size: 16px;"><strong><a href="https://github.com/Dhanya001/Nandini-Beauty-Store">Nandini-Beauty-Store</a></strong></td></tr>
-<tr><td style="font-size: 14px; overflow-wrap: break-word;">No description available</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; background: #eee; padding: 3px 6px; border-radius: 4px;">Dart</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; padding: 3px 6px;">No Website</td></tr>
-<tr><td style="font-size: 12px; padding: 3px 6px;">No Topics</td></tr>
-</table>
-</td>
-<td width="50%" valign="top" style="word-wrap: break-word; max-width: 50%;">
-<table width="100%" border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); table-layout: fixed; overflow-wrap: break-word;">
-<tr><td style="background: #f8f8f8; font-size: 16px;"><strong><a href="https://github.com/Dhanya001/beautystore">beautystore</a></strong></td></tr>
-<tr><td style="font-size: 14px; overflow-wrap: break-word;">No description available</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; background: #eee; padding: 3px 6px; border-radius: 4px;">Dart</td></tr>
-<tr><td style="font-size: 12px; font-weight: bold; padding: 3px 6px;">No Website</td></tr>
-<tr><td style="font-size: 12px; padding: 3px 6px;">No Topics</td></tr>
-</table>
-</td>
-<!-- LATEST-REPOS-END -->
-
----
-
-## 🚀 Follow Me on GitHub!  
-
-## If you like my work, make sure to **follow me** and stay updated with my latest projects!  
-
-<!-- FOLLOWERS_SECTION:start -->
-
-## 🚀 My Followers
 <table>
 <tr>
-<td align="center"><a href="https://github.com/vipullokhande"><img src="https://avatars.githubusercontent.com/u/99359962?v=4" width="80" height="80" style="border-radius:50%;"><br>@vipullokhande</a></td>
-<td align="center"><a href="https://github.com/yashKappa"><img src="https://avatars.githubusercontent.com/u/130564276?v=4" width="80" height="80" style="border-radius:50%;"><br>@yashKappa</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+  <td align="center" width="33%">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="50"/><br>
+    <strong>High Performance Engineering</strong>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://cdn-icons-png.flaticon.com/512/6013/6013179.png" width="50"/><br>
+    <strong>UI Design Excellence</strong>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://cdn-icons-png.flaticon.com/512/2920/2920347.png" width="50"/><br>
+    <strong>Business Strategy Support</strong>
+  </td>
 </tr>
 </table>
 
-<!-- FOLLOWERS_SECTION:end -->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanya001&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanya001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode&theme=dark" />
+</p>
+
+---
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="mailto:your.email@example.com">📧 your.email@example.com</a><br/>
+  <a href="https://linkedin.com/in/yourprofile">🔗 linkedin.com/in/yourprofile</a><br/>
+</p>
