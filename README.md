@@ -1,5 +1,8 @@
 <!-- Hero Section -->
-<h1 align="center">👋 Hi there, I'm Mohammad Al Azmeh</h1>
+<h1 align="center">👋 Hi there, I'm Dhananjay Saundalkar</h1>
+<p align="center">
+  <img src="https://itproger.com/img/news/1631479747.jpg" width="100%" style="border: 5px solid #000;" />
+</p>
 <h3 align="center">🚀 Mobile Application Developer | Flutter Expert | Tech Enthusiast</h3>
 
 <p align="center">
