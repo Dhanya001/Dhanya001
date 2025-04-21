@@ -1,75 +1,69 @@
-<!-- Background -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0C0C2C,100:0C0C2C&height=80&section=header&text=Hello,%20I'm%20Mohammad%20Al%20Azmeh&fontSize=30&fontColor=white" />
-</p>
-
-<!-- Profile Picture and Title -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius: 50%;" />
-</p>
-
-<h2 align="center" style="color:white;">Mobile Application Developer</h2>
-<p align="center">A skilled Flutter developer with 5 years of experience. You can count on me when it comes to performance, a touch of creativity, and good results.</p>
+<!-- Hero Section -->
+<h1 align="center">👋 Hi there, I'm Mohammad Al Azmeh</h1>
+<h3 align="center">🚀 Mobile Application Developer | Flutter Expert | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=web&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-blue?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+### 🧑‍💼 About Me
 
-🔹 I’m a Flutter developer who’s passionate about creating real-time mobile applications.  
-🔹 I specialize in building scalable cross-platform apps with pixel-perfect UIs.  
-🔹 My experience includes real-time messaging, payments, custom animations, and complex app architectures.  
-🔹 Worked for several clients and companies globally.  
-🔹 I also mentor junior developers and contribute to open-source.
+I’m a **passionate Flutter developer** with 5+ years of experience building scalable, high-performance mobile applications. I bring ideas to life through code and design with:
 
-📍 Currently working at a top-tier mobile dev company.  
-🛠 Tech Stack: `Flutter`, `Dart`, `Firebase`, `REST API`, `Figma`, `Git`.
+- 📱 Expertise in **Flutter & Dart**
+- 💬 Experience with **real-time messaging**, **push notifications**, **animations**, and **Firebase**
+- 🎯 A focus on **performance, scalability**, and **maintainable code**
+- 💡 Strong collaboration with product, design, and QA teams
+
+> “Code is poetry when it's written with purpose.”
 
 ---
 
-## ⚡ "What I Can Do"
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/engineering.png" width="80"/><br>
-  <b>High Performance Engineering</b>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/strategy-board.png" width="80"/><br>
-  <b>Business Strategy (Tech)</b>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/design.png" width="80"/><br>
-  <b>UI Design Excellence</b>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/real-time-collaboration.png" width="80"/><br>
-  <b>Real-Time Solutions</b>
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Stats
+### 🚀 What I Can Do
+
+- ✅ High-Performance App Development  
+- 🧠 Business-Focused Mobile Strategy  
+- 🎨 UI/UX Design Excellence  
+- ⚙️ Real-Time Communication and APIs  
+- 🔐 Security & Authentication  
+- 📊 App Analytics & Crash Monitoring
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanya001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanya001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Let’s Connect
+### 📫 Let's Connect
+
+Feel free to reach out for **collaboration**, **project discussion**, or **just to chat** about tech!
 
 <p align="center">
-  <a href="mailto:youremail@example.com">Email</a> • 
-  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> • 
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="mailto:youremail@example.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/yourlinkedin">💼 LinkedIn</a> •
+  <a href="https://yourportfolio.com">🌐 Portfolio</a>
 </p>
