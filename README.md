@@ -69,6 +69,12 @@
 
 ---
 
+### 🏆 My Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=yashKappa&theme=algolia&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🚀 My Recently Updated Projects  
 <!-- LATEST-REPOS-START -->
 <td width="50%" valign="top" style="word-wrap: break-word; max-width: 50%;">
