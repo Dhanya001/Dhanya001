@@ -71,7 +71,7 @@
 
 ### 🏆 My Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yashKappa&theme=algolia&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Dhanya001&theme=algolia&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
