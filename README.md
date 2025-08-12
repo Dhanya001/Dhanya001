@@ -144,8 +144,8 @@
 ## 🚀 My Followers
 <table>
 <tr>
-<td align="center"><a href="https://github.com/vipullokhande"><img src="https://avatars.githubusercontent.com/u/99359962?v=4" width="80" height="80" style="border-radius:50%;"><br>@vipullokhande</a></td>
 <td align="center"><a href="https://github.com/yashKappa"><img src="https://avatars.githubusercontent.com/u/130564276?v=4" width="80" height="80" style="border-radius:50%;"><br>@yashKappa</a></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
